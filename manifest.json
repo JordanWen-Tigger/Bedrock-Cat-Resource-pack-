@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "This is a texure pack that makes the shield and totem be the same breed as my cats, the utensils. Spoon is the totem and Knife is the shield.",
+    "name": "Utensil's texure pack for totem & shield J",
+    "uuid": "12345678-1234-1234-1234-123456789012",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Resources",
+      "type": "resources",
+      "uuid": "87654321-4321-4321-4321-210987654321",
+      "version": [1, 0, 0]
+    }
+  ]
+}
